@@ -79,7 +79,7 @@ if "file_processed" not in st.session_state:
 # ==========================================
 with st.sidebar:
     st.header("⚙️ ERP 智能选型系统")
-    st.subheader("朗博文组倾情打造")
+    st.subheader("企业资源1组")
     st.success("🟢 DeepSeek-chat 模型已连接")
     st.info("📚 行业知识库已挂载完成")
     st.markdown("""
